@@ -1,0 +1,3 @@
+[submodule "Projects/BWSync"]
+	path = Projects/BWSync
+	url = git@github.com:erayaydin/bwsync.git
